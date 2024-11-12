@@ -31,9 +31,8 @@ This app is designed for ease, reliability, and a satisfying food ordering exper
 - :  Android Studio
 - :  Firebase
 
- |Features| | |
+|Features| | |
 | :---: | :---: | :---: |
-
 | Login | :pushpin: Splash Screen: ![ start up](https://github.com/user-attachments/assets/bba5caa4-cb50-419a-8bb8-ccbc67cc14d8) | :pushpin: Intro Screen: ![ start up](https://github.com/user-attachments/assets/c26d4c27-dd55-46b2-93d2-80ed39dfeac1) |
 | Welcome | :pushpin: Login Screen: ![ start up](https://github.com/user-attachments/assets/e069a685-c58e-44ba-9216-d15a56feb3a6) | :pushpin: SignUp Screen: ![ start up](https://github.com/user-attachments/assets/74fdae23-8a08-4511-98a1-7f3340278fcd) |
 | Welcome | :pushpin: SignUp Location Select Screen 01:! [ start up](https://github.com/user-attachments/assets/e85f9419-8fd5-4313-b1cf-65c3249c995d) | :pushpin: SignUp Location Select Screen 02: ![ start up](https://github.com/user-attachments/assets/cf00e361-f689-4ef0-bba0-375e7953ad98) |
