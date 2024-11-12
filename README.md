@@ -23,9 +23,9 @@ This app is designed for ease, reliability, and a satisfying food ordering exper
 
 ## Technologies used:-
 
-- [<img src="https://github.com/user-attachments/assets/d4876fcb-765b-4c64-989a-7f656ff6639a" width="100" height="50">](https://github.com/mostofa-rezvi)
+- [<img src="https://github.com/user-attachments/assets/d4876fcb-765b-4c64-989a-7f656ff6639a" width="120" height="60">](https://github.com/mostofa-rezvi)
 
-- [<img src="https://github.com/user-attachments/assets/78dd3478-0105-41e7-89b4-7dd79052dbc4" width="80" height="80">](https://github.com/mostofa-rezvi)
+- [<img src="https://github.com/user-attachments/assets/78dd3478-0105-41e7-89b4-7dd79052dbc4" width="80" height="70">](https://github.com/mostofa-rezvi)
 
 **==== Software And Tools Required ======**
 - :  Android Studio
