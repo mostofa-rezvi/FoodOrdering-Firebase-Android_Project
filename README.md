@@ -31,34 +31,13 @@ This app is designed for ease, reliability, and a satisfying food ordering exper
 - :  Android Studio
 - :  Firebase
 
-
-![03 Login Screen](https://github.com/user-attachments/assets/e069a685-c58e-44ba-9216-d15a56feb3a6)
-![04 SignUp Screen](https://github.com/user-attachments/assets/74fdae23-8a08-4511-98a1-7f3340278fcd)
-![05 SignUp Location Select Screen 01](https://github.com/user-attachments/assets/e85f9419-8fd5-4313-b1cf-65c3249c995d)
-![06 SignUp Location Select Screen 02](https://github.com/user-attachments/assets/cf00e361-f689-4ef0-bba0-375e7953ad98)
-![07 Main Page](https://github.com/user-attachments/assets/ccb7dd34-72e1-4709-a4b6-d56ede20cac4)
-![08 Notification Bar](https://github.com/user-attachments/assets/a1a64eb0-cc26-4dab-80e3-f20967dec42f)
-![09 View Menu Cart](https://github.com/user-attachments/assets/88bb0a5c-23bc-4125-8fb8-1380c3fc6336)
-![10 Food Description](https://github.com/user-attachments/assets/11fcbe5b-beb5-454f-bb5d-5b5e9cff6338)
-![11 Selected Food List](https://github.com/user-attachments/assets/a923a8bf-75ba-4b69-b523-78bf99f60661)
-![12 Food Search](https://github.com/user-attachments/assets/a9e3445f-6f43-4222-b543-8c69123d3340)
-![13 Order History](https://github.com/user-attachments/assets/90a1a06b-4d41-4316-8fa9-182ade030359)
-![14 Profile Information](https://github.com/user-attachments/assets/7cf893b2-c44f-481b-9839-38209d640265)
-
-
  |Features| | |
 | :---: | :---: | :---: |
 
 | Login | :pushpin: Splash Screen: ![ start up](https://github.com/user-attachments/assets/bba5caa4-cb50-419a-8bb8-ccbc67cc14d8) | :pushpin: Intro Screen: ![ start up](https://github.com/user-attachments/assets/c26d4c27-dd55-46b2-93d2-80ed39dfeac1) |
-
-| Welcome | :pushpin: Login Screen: ![ start up]() | :pushpin: SignUp Screen: ![ start up]() |
-
-| Welcome | :pushpin: SignUp Location Select Screen 01:! [ start up]() | :pushpin: SignUp Location Select Screen 02: ![ start up]() |
-
-| Welcome | :pushpin: Main Page: ![ start up]() | :pushpin: Notification Bar: ![ start up]() |
-
-| Welcome | :pushpin: View Menu Cart: ![ start up]() | :pushpin: Food Description: ![ start up]() |
-
-| Welcome | :pushpin: Selected Food List: ![ start up]() | :pushpin: Food Search: ![ start up]() |
-
-| Welcome | :pushpin: Order History: ![ start up]() | :pushpin: Profile Information: ![ start up]() |
+| Welcome | :pushpin: Login Screen: ![ start up](https://github.com/user-attachments/assets/e069a685-c58e-44ba-9216-d15a56feb3a6) | :pushpin: SignUp Screen: ![ start up](https://github.com/user-attachments/assets/74fdae23-8a08-4511-98a1-7f3340278fcd) |
+| Welcome | :pushpin: SignUp Location Select Screen 01:! [ start up](https://github.com/user-attachments/assets/e85f9419-8fd5-4313-b1cf-65c3249c995d) | :pushpin: SignUp Location Select Screen 02: ![ start up](https://github.com/user-attachments/assets/cf00e361-f689-4ef0-bba0-375e7953ad98) |
+| Welcome | :pushpin: Main Page: ![ start up](https://github.com/user-attachments/assets/ccb7dd34-72e1-4709-a4b6-d56ede20cac4) | :pushpin: Notification Bar: ![ start up](https://github.com/user-attachments/assets/a1a64eb0-cc26-4dab-80e3-f20967dec42f) |
+| Welcome | :pushpin: View Menu Cart: ![ start up](https://github.com/user-attachments/assets/88bb0a5c-23bc-4125-8fb8-1380c3fc6336) | :pushpin: Food Description: ![ start up](https://github.com/user-attachments/assets/11fcbe5b-beb5-454f-bb5d-5b5e9cff6338) |
+| Welcome | :pushpin: Selected Food List: ![ start up](https://github.com/user-attachments/assets/a923a8bf-75ba-4b69-b523-78bf99f60661) | :pushpin: Food Search: ![ start up](https://github.com/user-attachments/assets/a9e3445f-6f43-4222-b543-8c69123d3340) |
+| Welcome | :pushpin: Order History: ![ start up](https://github.com/user-attachments/assets/90a1a06b-4d41-4316-8fa9-182ade030359) | :pushpin: Profile Information: ![ start up](https://github.com/user-attachments/assets/7cf893b2-c44f-481b-9839-38209d640265) |
